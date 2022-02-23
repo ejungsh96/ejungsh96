@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ejungsh96
 - 👀 I’m interested in solving real-world problems with softwares
-- 🌱 I’m currently learning python - Django
+- 🌱 I’m currently learning Linux, AWS, Jenkins, Docker, Kubernetes and Django
 - 📫 How to reach me - seokhwan.jung@kcl.ac.uk
 
 <!---
