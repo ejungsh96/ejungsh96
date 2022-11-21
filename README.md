@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ejungsh96
 - 👀 I’m interested in build CI/CD pipeline and automation to follow DevOps Culture
-- 🌱 I’m currently learning Linux, AWS, Jenkins, Docker, Kubernetes and Django
-- 📫 How to reach me - [seokhwan.jung@kcl.ac.uk](mailto:seokhwan.jung@kcl.ac.uk)
+- 🌱 Specialised in Python, Django, JavaScript, React, Linux, AWS, Jenkins, Docker and Terraform
+- 📫 How to reach me - [work.seokhwan.jung@gmail.com](mailto:work.seokhwan.jung@gmail.com)
 - 🎸 My personal blog - [ejungsh96.github.io/](https://ejungsh96.github.io/)
 
 <!---
